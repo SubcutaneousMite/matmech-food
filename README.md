@@ -1,13 +1,13 @@
-# Food Ordering App
-This is food ordering app where you can order your favorite food which you like more from list of the food given in the app.
+# Приложение для заказа еды
+Это приложение для заказа еды, с помощью которого вы можете заказать свою любимую еду из списка доступной еды в приложении.
 
-## Screenshots
-<!-- To set multiple images in grid view -->
+## Скриншоты
+<!-- Для установки нескольких изображений в сетку -->
 <table align="center">
   <tr>
-    <td><b><i>Select Your Food</i></b></td>
-    <td><b><i>Hambuger Menu</i></b</td>
-    <td><b><i>Select Your Food Using Search Bar</i></b></td>
+    <td><b><i>Выберите свою еду</i></b></td>
+    <td><b><i>Меню гамбургера</i></b></td>
+    <td><b><i>Выберите свою еду с помощью панели поиска</i></b></td>
   </tr>
   <tr>
     <td><img src="/Images/Screenshot_1.jpg" width="250" height="500"></td>
@@ -15,9 +15,9 @@ This is food ordering app where you can order your favorite food which you like 
     <td><img src="/Images/Screenshot_3.jpg" width="250" height="500"></td>
   </tr>
   <tr>
-    <td><b><i>Processing Order</i></b></td>
-    <td><b><i>My Orders</i></b></td>
-    <td><b><i>Updating Order</i></b></td>
+    <td><b><i>Обработка заказа</i></b></td>
+    <td><b><i>Мои заказы</i></b></td>
+    <td><b><i>Обновление заказа</i></b></td>
   </tr>
   <tr>
     <td><img src="/Images/Screenshot_7.jpg" width="250" height="500"></td>
@@ -25,7 +25,7 @@ This is food ordering app where you can order your favorite food which you like 
     <td><img src="/Images/Screenshot_5.jpg" width="250" height="500"></td>
   </tr>
   <tr>
-    <td><b><i>Deleting Order</i></b></td>
+    <td><b><i>Удаление заказа</i></b></td>
     <td></td>
     <td></td>
   </tr>
@@ -34,36 +34,36 @@ This is food ordering app where you can order your favorite food which you like 
   </tr>
  </table>
 
-## Features
-- <b>Select Your Food</b>
-  - You can select your favorite food from the list of the food.
-  - You can also search in the search bar to select your favorite food.
-- <b>Order Your Food</b>
-  - After selecting your food just click on that food and order your food.
-  - You can also select the quantity of food you want to order.
-- <b>Your Orders</b>
-  - You can see all your food that you have ordered in this page.
-- <b>Update Orders</b>
-  - You can also update your order by clicking on any of the ordered food.
-- <b>Delete Orders</b>
-  - You can also delete your orders by long clicking on any of the ordered item.
-  
-## Installation
-- For installing `android studio` click on this link.
-    - [Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads "Android Studio")
-- For more info related to `android studio` installation on different platform click on this link.
-    - [Check For More Info](https://developer.android.com/studio/install "More Info")
+## Возможности
+- **Выберите свою еду**
+  - Вы можете выбрать свою любимую еду из списка еды.
+  - Вы также можете искать в панели поиска, чтобы выбрать свою любимую еду.
+- **Закажите свою еду**
+  - После выбора еды просто нажмите на эту еду и закажите свою еду.
+  - Вы также можете выбрать количество еды, которое хотите заказать.
+- **Ваши заказы**
+  - Вы можете увидеть всю вашу еду, которую вы заказали на этой странице.
+- **Обновление заказов**
+  - Вы также можете обновить свой заказ, нажав на любую из заказанных ед.
+- **Удаление заказов**
+  - Вы также можете удалить свои заказы, удерживая нажатой любую из заказанных позиций.
 
-## How to run the app
-- Android studio must be installed in your laptop or pc.
-- Download the project.
-- Open project in android studio.
-- It will take some time in gradle build.
-- Connect your mobile with usb to your laptop or pc and enable usb debbugging in your mobile.
-- Now just click run button on top right side and app will run on your mobile.
+## Установка
+- Для установки `android studio` нажмите на эту ссылку.
+    - [Установить Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads "Android Studio")
+- Для получения дополнительной информации об установке `android studio` на различных платформах нажмите на эту ссылку.
+    - [Проверить подробнее](https://developer.android.com/studio/install "Подробнее")
 
-## Tools
+## Как запустить приложение
+- Android studio должно быть установлено на вашем ноутбуке или ПК.
+- Скачайте проект.
+- Откройте проект в android studio.
+- Построение gradle займет некоторое время.
+- Подключите свой мобильный телефон с помощью USB-кабеля к вашему ноутбуку или ПК и включите отладку по USB на вашем мобильном телефоне.
+- Теперь просто нажмите кнопку запуска в правом верхнем углу, и приложение запустится на вашем мобильном телефоне.
+
+## Инструменты
 - Android Studio
-- XML (Frontend)
-- Java (Backend)
-- SQLite (Database)
+- XML (Фронтенд)
+- Java (Бэкенд)
+- SQLite (База данных)
